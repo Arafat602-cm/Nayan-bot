@@ -10,7 +10,7 @@
   "banMsg": false,
   "adminOnlyMsg": false,
   "BOTNAME": "Arafat-bot",
-  "PREFIX": "/",
+  "PREFIX": "!",
   "OPERATOR": [
     "100014896964436",
     "100051997177668"
